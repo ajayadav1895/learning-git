@@ -1,3 +1,4 @@
+package learngit/demo
 class GITLearn
 {
     public static void main(String[] args) {
